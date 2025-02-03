@@ -1,0 +1,3 @@
+Este programa permite a los usuarios agregar nombres a través de un campo de texto y un botón de "Agregar", mostrándolos en una lista. Un botón de "Sortear Amigo" selecciona aleatoriamente un nombre y muestra el resultado en la pantalla. Es una aplicación sencilla para crear una lista de amigos y determinar el "amigo secreto" mediante un sorteo aleatorio.
+
+This program lets users add names through a text input and an "Add" button, displaying them in a list. A "Draw Friend" button randomly selects one name and shows the result on the screen. It’s a simple app to create a list of friends and determine the "secret friend" through a random draw.
